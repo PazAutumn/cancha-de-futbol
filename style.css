@@ -16,14 +16,13 @@
 	width: 100px;
 	height: 200px;
 	border: 4px solid white;
+	position: absolute;
 }
 .one{
-	position: absolute;
 	top: 150px;
 	left: -4px
 }
 .two{
-	position: absolute;
 	top: 150px;
 	left: 796px;
 }
